@@ -1,0 +1,43 @@
+services:
+  - type: web
+    name: tenarai-api
+    runtime: docker
+    plan: free
+    region: India
+    dockerfilePath: ./Dockerfile
+    dockerCommand: /bin/sh -c 'exec uvicorn src.api.app:app --host 0.0.0.0 --port $PORT'
+    healthCheckPath: /api/v1/health
+    autoDeployTrigger: checksPass
+    envVars:
+      - key: SERVICE_ROLE
+        value: backend
+      - key: LLM_PROVIDER
+        value: openai
+      - key: LLM_MODEL
+        value: gpt-4o-mini
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: ALLOW_MODEL_OVERRIDE
+        value: "false"
+      - key: TENARAI_ADMIN_KEY
+        generateValue: true
+      - key: TENARAI_CHAT_LIMIT_PER_MINUTE
+        value: "10"
+
+  - type: web
+    name: tenarai-ui
+    runtime: docker
+    plan: free
+    region: singapore
+    dockerfilePath: ./Dockerfile
+    dockerCommand: /bin/sh -c 'exec streamlit run src/app/app.py --server.address 0.0.0.0 --server.port $PORT --server.headless true'
+    healthCheckPath: /_stcore/health
+    autoDeployTrigger: checksPass
+    envVars:
+      - key: SERVICE_ROLE
+        value: ui
+      - key: TENARAI_API_URL
+        fromService:
+          type: web
+          name: tenarai-api
+          property: hostport

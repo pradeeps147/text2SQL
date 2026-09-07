@@ -1,0 +1,47 @@
+name: tenarai
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: tenarai:local
+    environment:
+      SERVICE_ROLE: backend
+      PORT: "8000"
+      LLM_PROVIDER: ollama
+      LLM_MODEL: llama3.1:8b
+      OLLAMA_HOST: http://host.docker.internal:11434
+      ALLOW_MODEL_OVERRIDE: "true"
+    extra_hosts:
+      - host.docker.internal:host-gateway
+    ports:
+      - "8000:8000"
+    volumes:
+      - processed_data:/app/data/processed
+      - uploaded_data:/app/data/uploads
+      - backend_logs:/app/logs
+
+  ui:
+    image: tenarai:local
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command:
+      - /bin/sh
+      - -c
+      - exec streamlit run src/app/app.py --server.address 0.0.0.0 --server.port $${PORT}
+    environment:
+      SERVICE_ROLE: ui
+      PORT: "8501"
+      TENARAI_API_URL: http://backend:8000
+    depends_on:
+      backend:
+        condition: service_healthy
+    ports:
+      - "8501:8501"
+
+volumes:
+  processed_data:
+  uploaded_data:
+  backend_logs:

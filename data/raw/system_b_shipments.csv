@@ -1,0 +1,206 @@
+ShipmentRef,From,To,Carrier Name,PickupDate,ETA,DeliveredOn,Status
+SHP000474,LA,N.York,BlueLine Logistics,05 Jul 2025,07/09/2025,09 Jul 2025,delivered
+SHP000132,N.York,Denvor,TransHaul Co,05 Apr 2025,10 Apr 2025,,delivered
+SHP000570,DEN,Seatle,,"Mar 08, 2025",03/10/2025,2025-03-10,delivered
+SHP000413,MIA,Atlanta,BlueLine Logistics,"May 25, 2025",26 May 2025,"Jun 01, 2025",delayed
+SHP000257,los angeles,Atlanta,TransHaul Co,30 Jan 2025,02/04/2025,"Feb 11, 2025",delayed
+SHP000493,Houston,denver,,11 May 2025,"May 13, 2025",17 May 2025,delayed
+SHP000051,Maimi,houston,TransHaul Co,01/02/2025,08-01-2025,"Jan 10, 2025",delivered
+SHP000011,denver,New York City,Swift Freight,"Jul 13, 2025","Jul 14, 2025",16 Jul 2025,delayed
+SHP000398,denver,Chicago,Pioneer Cargo,02 Apr 2025,2025-04-05,,in_transit
+SHP000551,New York City,ATL,Swift Freight,2025-05-08,12 May 2025,"May 15, 2025",delayed
+SHP000124,denver,SEA,,"Apr 21, 2025",2025-04-24,"Apr 27, 2025",delivered
+SHP000199,HOU,L.A.,TransHaul Co,04 Feb 2025,02/12/2025,,delivered
+SHP000005,MIA,N.York,,2025-05-22,2025-05-27,06/01/2025,delayed
+SHP000020,Los Angeles,Seattle,Swift Freight,"Apr 21, 2025",27-04-2025,2025-04-29,delivered
+SHP000416,Miami,Denver,Swift Freight,"Feb 08, 2025",02/18/2025,20 Feb 2025,delivered
+SHP000201,chicago,Los Angles,TransHaul Co,2025-03-25,03 Apr 2025,,delivered
+SHP000373,Denvor,N.York,TransHaul Co,16 May 2025,05/17/2025,,in_transit
+SHP000590,chicago,Maimi,Pioneer Cargo,"Jan 08, 2025",01/16/2025,16-01-2025,delivered
+SHP000109,Seatle,N.York,Swift Freight,2025-02-14,"Feb 19, 2025","Feb 23, 2025",delivered
+SHP000457,Seattle,new york,Swift Freight,08-02-2025,09-02-2025,,cancelled
+SHP000376,houston,atlanta,Pioneer Cargo,2025-07-02,07-07-2025,,in_transit
+SHP000054,NYC,Chcago,Pioneer Cargo,"Apr 08, 2025",14-04-2025,2025-04-15,delivered
+SHP000485,Los Angeles,Huoston,TransHaul Co,05/27/2025,05/28/2025,"May 29, 2025",delivered
+SHP000345,houston,CHI,BlueLine Logistics,2025-04-15,"Apr 25, 2025",29-04-2025,delayed
+SHP000316,L.A.,Atlanta,TransHaul Co,08/30/2025,01 Sep 2025,"Sep 04, 2025",delivered
+SHP000415,denver,Atlanta,Swift Freight,06/01/2025,03 Jun 2025,05 Jun 2025,delivered
+SHP000037,L.A.,MIA,Swift Freight,2025-03-13,19-03-2025,,in_transit
+SHP000178,Miami,atlanta,Swift Freight,"Apr 26, 2025",05-05-2025,08-05-2025,delivered
+SHP000220,Seattle,Los Angles,Swift Freight,2025-02-05,2025-02-14,2025-02-17,delivered
+SHP000033,SEA,ATL,,22-05-2025,05/25/2025,05/25/2025,delivered
+SHP000057,Los Angeles,Miami,Pioneer Cargo,29 Jul 2025,"Aug 01, 2025",,cancelled
+SHP000031,DEN,Chicago,Swift Freight,20-08-2025,08/21/2025,,delivered
+SHP000209,houston,MIA,Pioneer Cargo,08/10/2025,11-08-2025,08/12/2025,delivered
+SHP000281,ATL,Los Angeles,Swift Freight,06-04-2025,"Apr 09, 2025",16-04-2025,delayed
+SHP000008,Atlanta,seattle,Swift Freight,26-06-2025,"Jul 05, 2025",06-07-2025,delivered
+SHP000078,Denver,Chcago,Pioneer Cargo,"Feb 16, 2025",26-02-2025,,delivered
+SHP000182,Los Angeles,Huoston,Pioneer Cargo,30 May 2025,04 Jun 2025,06/10/2025,delayed
+SHP000383,ATL,L.A.,BlueLine Logistics,2025-02-11,02/21/2025,22-02-2025,delayed
+SHP000088,Chcago,Atlanta,TransHaul Co,2025-06-01,06/07/2025,,delayed
+SHP000359,new york,DEN,,"Aug 07, 2025",10 Aug 2025,,in_transit
+SHP000134,chicago,NYC,Pioneer Cargo,05-03-2025,"Mar 13, 2025",,cancelled
+SHP000153,NYC,CHI,,21 Feb 2025,"Feb 22, 2025",23-02-2025,delayed
+SHP000396,seattle,Los Angles,Pioneer Cargo,04/16/2025,2025-04-25,04/25/2025,delivered
+SHP000265,denver,Chcago,Pioneer Cargo,2025-03-24,2025-03-29,,delivered
+SHP000371,denver,LA,Swift Freight,"Jul 30, 2025",08/06/2025,,delivered
+SHP000036,denver,Los Angeles,BlueLine Logistics,"Feb 21, 2025",01-03-2025,,delivered
+SHP000093,HOU,Denvor,Pioneer Cargo,2025-08-22,"Sep 01, 2025",03-09-2025,delivered
+SHP000404,miami,chicago,,05/09/2025,05/10/2025,,in_transit
+SHP000512,N.York,Huoston,BlueLine Logistics,05/08/2025,16 May 2025,"May 16, 2025",delivered
+SHP000411,Denvor,Seattle,BlueLine Logistics,2025-05-03,05/11/2025,11 May 2025,delivered
+SHP000458,Chicago,Seatle,BlueLine Logistics,23-04-2025,"Apr 24, 2025",24-04-2025,delivered
+SHP000537,DEN,HOU,TransHaul Co,03/01/2025,05-03-2025,08-03-2025,delivered
+SHP000580,Huoston,NYC,Swift Freight,25 Jul 2025,29 Jul 2025,,delivered
+SHP000453,Chcago,Denvor,Pioneer Cargo,2025-03-15,"Mar 23, 2025",27-03-2025,delivered
+SHP000588,Denver,Houston,Pioneer Cargo,15-02-2025,02/18/2025,,in_transit
+SHP000236,Atalanta,HOU,TransHaul Co,2025-02-07,09-02-2025,,delivered
+SHP000336,new york,Miami,BlueLine Logistics,19-07-2025,20 Jul 2025,,delivered
+SHP000059,New York,CHI,Swift Freight,"May 17, 2025","May 24, 2025",,in_transit
+SHP000097,Houston,ATL,TransHaul Co,2025-03-06,09 Mar 2025,,in_transit
+SHP000436,atlanta,Houston,TransHaul Co,"Feb 16, 2025",25 Feb 2025,2025-02-25,delivered
+SHP000258,L.A.,SEA,Pioneer Cargo,2025-08-01,"Aug 05, 2025",2025-08-05,delivered
+SHP000586,Los Angles,seattle,BlueLine Logistics,2025-07-31,05 Aug 2025,2025-08-05,delivered
+SHP000571,New York City,Seattle,TransHaul Co,"Apr 10, 2025","Apr 15, 2025","Apr 16, 2025",delivered
+SHP000053,New York,Huoston,BlueLine Logistics,"Jun 01, 2025",06/11/2025,,in_transit
+SHP000304,Huoston,CHI,,05/17/2025,05/18/2025,,delayed
+SHP000175,Denvor,chicago,,08 May 2025,09-05-2025,2025-05-11,delivered
+SHP000211,seattle,Denvor,BlueLine Logistics,04/17/2025,24-04-2025,04/26/2025,delivered
+SHP000249,Maimi,New York City,Swift Freight,07/08/2025,07/18/2025,22-07-2025,delayed
+SHP000407,Los Angles,seattle,TransHaul Co,"May 14, 2025",19-05-2025,22 May 2025,delayed
+SHP000145,SEA,Los Angeles,Pioneer Cargo,04/09/2025,04/11/2025,,delivered
+SHP000266,Denvor,new york,BlueLine Logistics,01-02-2025,02/04/2025,04-02-2025,delivered
+SHP000475,Maimi,Seattle,BlueLine Logistics,01/28/2025,07 Feb 2025,,delivered
+SHP000406,Huoston,New York City,TransHaul Co,2025-06-21,2025-06-25,,delivered
+SHP000593,Houston,Seattle,Pioneer Cargo,04/02/2025,2025-04-07,"Apr 07, 2025",delivered
+SHP000181,Atalanta,DEN,TransHaul Co,2025-03-28,06-04-2025,11-04-2025,delayed
+SHP000547,miami,seattle,TransHaul Co,03/23/2025,03/30/2025,01 Apr 2025,delivered
+SHP000050,Los Angeles,houston,TransHaul Co,"Apr 15, 2025",21 Apr 2025,2025-04-23,delivered
+SHP000515,seattle,NYC,,"Jan 13, 2025",15 Jan 2025,,delivered
+SHP000139,Los Angles,Chicago,Pioneer Cargo,05 Aug 2025,08/07/2025,10 Aug 2025,delivered
+SHP000592,Denvor,new york,TransHaul Co,16-08-2025,08/23/2025,"Aug 26, 2025",delivered
+SHP000162,Chcago,Miami,Pioneer Cargo,19-01-2025,2025-01-27,31 Jan 2025,delivered
+SHP000519,Seatle,L.A.,BlueLine Logistics,07 Jun 2025,06/17/2025,21-06-2025,delivered
+SHP000279,Maimi,Seattle,TransHaul Co,05 Aug 2025,09 Aug 2025,2025-08-09,delivered
+SHP000086,Denvor,CHI,BlueLine Logistics,03/27/2025,05 Apr 2025,"Apr 09, 2025",delayed
+SHP000530,Los Angles,New York,Pioneer Cargo,"Mar 21, 2025",2025-03-22,,in_transit
+SHP000094,CHI,New York City,Pioneer Cargo,"Apr 24, 2025",30-04-2025,,cancelled
+SHP000585,Miami,Los Angles,BlueLine Logistics,"Aug 29, 2025",01 Sep 2025,,in_transit
+SHP000264,NYC,Miami,TransHaul Co,07/18/2025,"Jul 20, 2025",,delayed
+SHP000040,SEA,Denvor,Pioneer Cargo,"Aug 06, 2025",08-08-2025,11 Aug 2025,delayed
+SHP000272,L.A.,DEN,TransHaul Co,12-07-2025,07/14/2025,,in_transit
+SHP000150,NYC,HOU,Swift Freight,12-08-2025,2025-08-20,22-08-2025,delivered
+SHP000358,NYC,DEN,Pioneer Cargo,"Jul 28, 2025",2025-07-31,,delayed
+SHP000025,Denver,atlanta,Swift Freight,24 Aug 2025,2025-09-02,,delivered
+SHP000305,SEA,miami,BlueLine Logistics,"Jul 08, 2025",14 Jul 2025,15-07-2025,delayed
+SHP000213,seattle,Denver,Pioneer Cargo,"Jan 21, 2025",29 Jan 2025,30 Jan 2025,delayed
+SHP000414,denver,Los Angles,Pioneer Cargo,02/26/2025,05-03-2025,,in_transit
+SHP000369,N.York,Maimi,Pioneer Cargo,"Feb 27, 2025",2025-03-07,2025-03-10,delivered
+SHP000028,DEN,atlanta,Pioneer Cargo,2025-05-25,05/27/2025,27-05-2025,delivered
+SHP000441,chicago,HOU,TransHaul Co,26-07-2025,27-07-2025,29 Jul 2025,delivered
+SHP000445,DEN,Seatle,TransHaul Co,2025-02-07,2025-02-10,,in_transit
+SHP000070,los angeles,Atlanta,BlueLine Logistics,2025-06-11,12 Jun 2025,"Jun 15, 2025",delivered
+SHP000365,DEN,miami,Pioneer Cargo,07-05-2025,2025-05-10,12 May 2025,delivered
+SHP000483,new york,CHI,BlueLine Logistics,05/15/2025,2025-05-16,"May 19, 2025",delivered
+SHP000487,LA,NYC,Pioneer Cargo,21 Jun 2025,2025-06-28,29-06-2025,delivered
+SHP000030,Los Angles,new york,Pioneer Cargo,07/10/2025,19-07-2025,,delivered
+SHP000324,Chicago,L.A.,BlueLine Logistics,07/26/2025,30 Jul 2025,,delivered
+SHP000391,N.York,LA,Pioneer Cargo,"Jul 23, 2025","Jul 28, 2025",,in_transit
+SHP000320,los angeles,Chicago,TransHaul Co,07/20/2025,27-07-2025,"Jul 31, 2025",delivered
+SHP000009,LA,Denvor,,"Aug 22, 2025",09/01/2025,,delayed
+SHP000295,SEA,houston,Swift Freight,"May 12, 2025","May 13, 2025",,in_transit
+SHP000424,Huoston,CHI,Swift Freight,01/21/2025,"Jan 31, 2025","Feb 02, 2025",delivered
+SHP000192,Los Angeles,seattle,TransHaul Co,05/27/2025,2025-05-31,,delivered
+SHP000330,atlanta,Seatle,,"Apr 17, 2025","Apr 27, 2025",,in_transit
+SHP000480,chicago,los angeles,Pioneer Cargo,2025-03-09,15 Mar 2025,,delayed
+SHP000133,denver,Miami,TransHaul Co,2025-05-27,31-05-2025,2025-06-02,delivered
+SHP000224,ATL,Maimi,TransHaul Co,01 Apr 2025,04/06/2025,04/07/2025,delayed
+SHP000465,los angeles,Denvor,,2025-05-05,"May 09, 2025",12-05-2025,delivered
+SHP000247,New York,miami,BlueLine Logistics,01 Jul 2025,07/03/2025,,delivered
+SHP000298,DEN,Miami,Swift Freight,"Feb 02, 2025",2025-02-04,02/11/2025,delayed
+SHP000186,seattle,atlanta,Pioneer Cargo,01 Apr 2025,06-04-2025,,in_transit
+SHP000384,New York City,MIA,Swift Freight,27-08-2025,06 Sep 2025,09/09/2025,delayed
+SHP000035,new york,los angeles,BlueLine Logistics,2025-07-08,"Jul 14, 2025",2025-07-18,delayed
+SHP000351,houston,Seattle,Pioneer Cargo,2025-02-03,"Feb 07, 2025",,delayed
+SHP000114,SEA,Maimi,Pioneer Cargo,27-04-2025,04-05-2025,05/04/2025,delivered
+SHP000062,Maimi,chicago,Pioneer Cargo,08-01-2025,16-01-2025,18-01-2025,delayed
+SHP000015,Seattle,Miami,,2025-07-26,31 Jul 2025,,delivered
+SHP000587,seattle,MIA,Swift Freight,07/14/2025,2025-07-23,07/25/2025,delivered
+SHP000331,SEA,Maimi,BlueLine Logistics,15 Jan 2025,24 Jan 2025,,delayed
+SHP000556,New York,seattle,Swift Freight,16-03-2025,26-03-2025,03/28/2025,delivered
+SHP000092,seattle,chicago,BlueLine Logistics,2025-04-21,24 Apr 2025,"Apr 26, 2025",delivered
+SHP000214,N.York,miami,,01/19/2025,23-01-2025,28-01-2025,delayed
+SHP000392,Denver,Seattle,Swift Freight,14 Apr 2025,2025-04-21,,delivered
+SHP000543,los angeles,Seatle,Swift Freight,2025-07-28,08/07/2025,08/11/2025,delayed
+SHP000064,Denvor,houston,Pioneer Cargo,22 Jul 2025,23-07-2025,"Jul 23, 2025",delivered
+SHP000242,Chcago,Seatle,TransHaul Co,19 Apr 2025,2025-04-26,29-04-2025,delivered
+SHP000326,Miami,New York,Swift Freight,17-04-2025,20 Apr 2025,23-04-2025,delivered
+SHP000370,HOU,N.York,,2025-03-29,2025-04-04,04/11/2025,delayed
+SHP000154,NYC,MIA,Swift Freight,15-06-2025,"Jun 19, 2025","Jun 19, 2025",delivered
+SHP000135,MIA,Denver,Pioneer Cargo,2025-03-28,07 Apr 2025,,delivered
+SHP000572,L.A.,Atlanta,Pioneer Cargo,27-02-2025,28-02-2025,"Mar 04, 2025",delivered
+SHP000002,N.York,denver,TransHaul Co,02/25/2025,"Mar 01, 2025",01 Mar 2025,delivered
+SHP000014,Houston,Los Angles,Pioneer Cargo,"Apr 06, 2025",2025-04-09,2025-04-12,delivered
+SHP000568,NYC,HOU,BlueLine Logistics,"Apr 10, 2025",2025-04-16,,cancelled
+SHP000548,MIA,denver,BlueLine Logistics,2025-08-25,2025-08-31,2025-09-02,delayed
+SHP000287,seattle,L.A.,,16 Mar 2025,"Mar 26, 2025",,delayed
+SHP000253,Maimi,atlanta,,"Feb 05, 2025",15-02-2025,02/15/2025,delivered
+SHP000395,Chcago,N.York,Swift Freight,11-01-2025,01/12/2025,,in_transit
+SHP000583,Miami,Denver,BlueLine Logistics,2025-02-10,11 Feb 2025,12-02-2025,delayed
+SHP000495,ATL,L.A.,Swift Freight,09 May 2025,14-05-2025,,delayed
+SHP000528,denver,ATL,TransHaul Co,07 Jan 2025,15-01-2025,17-01-2025,delayed
+SHP000421,DEN,los angeles,Pioneer Cargo,"Apr 05, 2025",04/14/2025,,in_transit
+SHP000596,Miami,Atalanta,,2025-02-26,"Mar 08, 2025",13 Mar 2025,delayed
+SHP000471,MIA,Seattle,Pioneer Cargo,05/06/2025,15 May 2025,,in_transit
+SHP000196,Seatle,NYC,BlueLine Logistics,2025-04-13,15-04-2025,"Apr 15, 2025",delivered
+SHP000096,New York City,ATL,BlueLine Logistics,10 Aug 2025,11-08-2025,08/17/2025,delayed
+SHP000103,N.York,denver,TransHaul Co,"Mar 19, 2025",27-03-2025,27 Mar 2025,delivered
+SHP000071,HOU,Maimi,Pioneer Cargo,14 May 2025,21 May 2025,2025-05-23,delivered
+SHP000291,NYC,Huoston,,19-06-2025,"Jun 22, 2025",23-06-2025,delivered
+SHP000364,L.A.,houston,Swift Freight,2025-06-19,06/23/2025,27 Jun 2025,delivered
+SHP000237,houston,Seatle,Swift Freight,06/10/2025,18-06-2025,,in_transit
+SHP000285,Seattle,Chicago,BlueLine Logistics,07/31/2025,02 Aug 2025,,in_transit
+SHP000577,N.York,Huoston,BlueLine Logistics,31 Jan 2025,02/04/2025,2025-02-10,delayed
+SHP000470,LA,New York,TransHaul Co,08/02/2025,2025-08-05,2025-08-05,delivered
+SHP000140,miami,L.A.,Swift Freight,"Feb 11, 2025",14-02-2025,02/21/2025,delayed
+SHP000328,chicago,Atlanta,TransHaul Co,05-06-2025,12-06-2025,2025-06-13,delivered
+SHP000564,los angeles,seattle,,2025-04-25,01 May 2025,2025-05-02,delivered
+SHP000004,Los Angles,NYC,Swift Freight,"Apr 08, 2025",10 Apr 2025,2025-04-11,delivered
+SHP000046,Denvor,new york,TransHaul Co,23 May 2025,27 May 2025,28 May 2025,delayed
+SHP000579,Chcago,seattle,Swift Freight,2025-01-13,2025-01-18,,delayed
+SHP000303,N.York,MIA,BlueLine Logistics,07/19/2025,2025-07-24,07/26/2025,delivered
+SHP000034,Los Angles,chicago,BlueLine Logistics,07/19/2025,07/28/2025,,delayed
+SHP000172,HOU,CHI,,06/05/2025,08-06-2025,12 Jun 2025,delivered
+SHP000269,L.A.,Miami,Swift Freight,2025-04-19,22-04-2025,22-04-2025,delivered
+SHP000518,los angeles,Huoston,Pioneer Cargo,05-07-2025,15 Jul 2025,21 Jul 2025,delayed
+SHP000156,CHI,ATL,TransHaul Co,17 Mar 2025,"Mar 23, 2025",,delivered
+SHP000107,houston,NYC,,01 Aug 2025,2025-08-10,10-08-2025,delivered
+SHP000074,atlanta,Maimi,Swift Freight,22 Jul 2025,08/01/2025,,in_transit
+SHP000399,HOU,chicago,,05-05-2025,"May 13, 2025",05/17/2025,delivered
+SHP000307,HOU,Miami,Swift Freight,02/03/2025,09 Feb 2025,02/16/2025,delayed
+SHP000561,Miami,New York,Pioneer Cargo,"Mar 15, 2025",23 Mar 2025,24-03-2025,delivered
+SHP000541,HOU,miami,BlueLine Logistics,2025-06-27,07 Jul 2025,"Jul 09, 2025",delivered
+SHP000488,Chcago,Denver,BlueLine Logistics,06/07/2025,15-06-2025,,in_transit
+SHP000591,Huoston,miami,TransHaul Co,01/29/2025,2025-02-04,"Feb 04, 2025",delivered
+SHP000218,Huoston,SEA,BlueLine Logistics,02/07/2025,08-02-2025,02/11/2025,delivered
+SHP000397,New York,MIA,Swift Freight,12-07-2025,2025-07-21,07/24/2025,delivered
+SHP000497,chicago,houston,BlueLine Logistics,21 Mar 2025,31 Mar 2025,04/03/2025,delivered
+SHP000148,Maimi,Seattle,BlueLine Logistics,07/23/2025,02-08-2025,"Aug 02, 2025",delivered
+SHP000582,Maimi,LA,Swift Freight,06/28/2025,2025-07-04,,in_transit
+SHP000213,seattle,Denver,Pioneer Cargo,"Jan 21, 2025",29 Jan 2025,30 Jan 2025,delayed
+SHP000380,HOU,Seattle,TransHaul Co,"Jun 15, 2025","Jun 24, 2025",27-06-2025,delivered
+SHP000228,houston,atlanta,,06 Feb 2025,13-02-2025,"Feb 16, 2025",delayed
+SHP000373,Denvor,N.York,TransHaul Co,16 May 2025,05/17/2025,,in_transit
+SHP000111,Miami,Houston,,25 Jun 2025,06/27/2025,2025-06-29,delivered
+SHP000425,N.York,Los Angles,BlueLine Logistics,06 Aug 2025,08/15/2025,2025-08-15,delivered
+SHP000508,denver,New York City,Swift Freight,15-02-2025,23-02-2025,,in_transit
+SHP000428,seattle,Maimi,TransHaul Co,12 Mar 2025,2025-03-16,,in_transit
+SHP000513,Denver,houston,Pioneer Cargo,24 Apr 2025,26 Apr 2025,,in_transit
+SHP000521,SEA,ATL,Swift Freight,26-07-2025,30-07-2025,30 Jul 2025,delivered
+SHP000502,CHI,L.A.,BlueLine Logistics,02/19/2025,02/23/2025,2025-02-23,delivered
+SHP000146,Atalanta,Miami,Swift Freight,2025-05-01,04-05-2025,05/08/2025,delayed
+SHP000007,houston,seattle,BlueLine Logistics,"Mar 10, 2025","Mar 12, 2025",,in_transit
+SHP000500,CHI,miami,BlueLine Logistics,02/18/2025,2025-02-20,20-02-2025,delivered
+SHP000198,N.York,SEA,Swift Freight,31-01-2025,08-02-2025,10 Feb 2025,delivered
+SHP000511,Miami,chicago,BlueLine Logistics,2025-03-21,29 Mar 2025,,delivered
+SHP000219,MIA,ATL,TransHaul Co,"Aug 02, 2025","Aug 06, 2025",08/10/2025,delivered

@@ -1,0 +1,11 @@
+.venv/
+.agents/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/processed/*.duckdb
+data/processed/*.json
+data/uploads/
+logs/
+.DS_Store
+.env

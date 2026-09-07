@@ -1,0 +1,40 @@
+[server]
+maxUploadSize = 25
+
+[client]
+toolbarMode = "minimal"
+
+[theme]
+base = "dark"
+primaryColor = "#7C6DFF"
+backgroundColor = "#0B1020"
+secondaryBackgroundColor = "#151B2E"
+textColor = "#EEF2FF"
+linkColor = "#A99EFF"
+codeBackgroundColor = "#10172A"
+borderColor = "#2A3550"
+dataframeBorderColor = "#2A3550"
+dataframeHeaderBackgroundColor = "#151B2E"
+showWidgetBorder = true
+showSidebarBorder = true
+baseRadius = "10px"
+buttonRadius = "8px"
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+headingFont = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@600;700&display=swap"
+codeFont = "'JetBrains Mono':https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap"
+baseFontSize = 15
+headingFontSizes = ["34px", "25px", "20px", "17px", "15px", "13px"]
+headingFontWeights = [700, 650, 600, 600, 600, 600]
+chartCategoricalColors = ["#7C6DFF", "#35C6B4", "#F6B94A", "#F07A9B", "#64A8FF", "#B884FF"]
+greenColor = "#35C6B4"
+orangeColor = "#F6B94A"
+redColor = "#F16F7A"
+blueColor = "#64A8FF"
+violetColor = "#A99EFF"
+
+[theme.sidebar]
+backgroundColor = "#0E1425"
+secondaryBackgroundColor = "#151B2E"
+textColor = "#EEF2FF"
+primaryColor = "#7C6DFF"
+borderColor = "#2A3550"
