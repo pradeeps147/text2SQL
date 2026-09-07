@@ -6,9 +6,6 @@ Simulates 3 legacy export files from different regional systems, each with:
 - missing required and optional fields
 - misspelled / aliased / inconsistently-cased location names
 - duplicate rows
-
-Run:
-    python scripts/generate_sample_data.py
 """
 
 from __future__ import annotations

@@ -13,6 +13,7 @@ services:
       LLM_MODEL: llama3.1:8b
       OLLAMA_HOST: http://host.docker.internal:11434
       ALLOW_MODEL_OVERRIDE: "true"
+      TENARAI_ADMIN_KEY: ${TENARAI_ADMIN_KEY:-}
     extra_hosts:
       - host.docker.internal:host-gateway
     ports:
@@ -35,6 +36,7 @@ services:
       SERVICE_ROLE: ui
       PORT: "8501"
       TENARAI_API_URL: http://backend:8000
+      TENARAI_UI_ADMIN_KEY: ${TENARAI_ADMIN_KEY:-}
     depends_on:
       backend:
         condition: service_healthy
